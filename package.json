@@ -2,7 +2,7 @@
   "name": "ANIMATE",
   "version": "1.0.0",
   "description": "Animate your website without extreme coding",
-  "main": "style.css",
+  "main": "animate.min.css",
   "author": "Harwinder Singh",
   "license": "ISC"
 }
